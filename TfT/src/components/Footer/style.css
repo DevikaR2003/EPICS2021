@@ -1,0 +1,225 @@
+.footer {
+  height: 402px;
+  width: 1500px;
+}
+
+.footer .overlap {
+  height: 402px;
+  position: relative;
+}
+
+.footer .BG {
+  background-color: var(--black);
+  height: 402px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1500px;
+}
+
+.footer .group {
+  height: 44px;
+  left: 110px;
+  position: absolute;
+  top: 86px;
+  width: 129px;
+}
+
+.footer .largerthan {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.footer .div {
+  color: #ffffff;
+  font-family: "Courgette", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 114px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.footer .form {
+  height: 208px;
+  left: 846px;
+  position: absolute;
+  top: 96px;
+  width: 546px;
+}
+
+.footer .form-field {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 144px;
+  width: 546px;
+}
+
+.footer .overlap-group {
+  height: 64px;
+  position: relative;
+  width: 544px;
+}
+
+.footer .secondary-button-instance {
+  height: 64px !important;
+  left: 408px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.footer .design-component-instance-node {
+  margin-top: unset !important;
+}
+
+.footer .input {
+  border: 1px solid;
+  border-color: #ebf0f94c;
+  border-radius: 4px;
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 456px;
+}
+
+.footer .text-wrapper-2 {
+  color: #ebf0f94c;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.8;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.footer .p {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.footer .links {
+  height: 210px;
+  left: 337px;
+  position: absolute;
+  top: 96px;
+  width: 366px;
+}
+
+.footer .our-team {
+  height: 210px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 84px;
+}
+
+.footer .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  opacity: 0.78;
+  position: absolute;
+  top: 188px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  opacity: 0.78;
+  position: absolute;
+  top: 142px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  opacity: 0.78;
+  position: absolute;
+  top: 96px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  opacity: 0.78;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.footer .more {
+  height: 210px;
+  left: 162px;
+  position: absolute;
+  top: 0;
+  width: 62px;
+}
+
+.footer .connect {
+  height: 210px;
+  left: 302px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
